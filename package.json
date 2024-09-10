@@ -38,5 +38,8 @@
     "@types/multer": "^1.4.9",
     "nodemon": "^3.0.1",
     "ts-node": "^10.9.1"
+  },
+  "resolutions": {
+    "@types/mime": "3.0.4"
   }
 }
